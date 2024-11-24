@@ -1,6 +1,8 @@
 # regife
 Estimate linear models with interactive fixed effects (Bai 2009) Use regife With STATA 18
 
+https://www.youtube.com/watch?v=KO31j-aOooI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
